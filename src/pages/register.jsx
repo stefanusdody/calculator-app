@@ -126,7 +126,7 @@ class Register extends Component {
           value={this.state.password}
           onChange={this.handleChangePassword} />
         </FormGroup>
-        <Link to="/login">
+        <Link to="/">
         <Button outline color="danger" block>REGISTER</Button>{' '}
         </Link>
       </Form>
