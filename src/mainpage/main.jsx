@@ -7,7 +7,7 @@ import Register from "../pages/register"
 const Main = () => (
     <main>
         <Switch>
-             <Route exact path="/login" component={Login} />
+             <Route exact path="/" component={Login} />
              <Route exact path="/calculator" component={Calculator}/>
              <Route exact path="/register" component={Register}/>
          </Switch>
