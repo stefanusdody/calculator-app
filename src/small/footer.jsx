@@ -6,9 +6,8 @@ import { Button,CardImg, Modal, ModalHeader, ModalBody, ModalFooter } from 'reac
 const footerBox = {
   height: "80px",
   width: "100%",
-
   backgroundColor: "#1abcfe",
-  marginTop: "20px",
+  marginTop: "70px",
   paddingTop: "5px",
   textAlign: "center",
 }

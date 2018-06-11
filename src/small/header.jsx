@@ -55,14 +55,14 @@ class Header extends Component {
                   Options
                 </DropdownToggle>
                 <DropdownMenu right>
-                  <Link to="/login">
+                  <Link to="/">
                     <DropdownItem> Login </DropdownItem>
                   </Link>
                   <Link to="/register">
                     <DropdownItem>Register</DropdownItem>
                   </Link>
                   <DropdownItem divider />
-                  <Link to="/login">
+                  <Link to="/">
                   <DropdownItem>Log Out</DropdownItem>
                   </Link>
                 </DropdownMenu>

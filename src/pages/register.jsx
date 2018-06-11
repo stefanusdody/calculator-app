@@ -8,7 +8,7 @@ const formRegister = {
   textAlign: "left",
   width: "50%",
   height: "450px",
-  marginTop: "5%",
+  marginTop: "100px",
   marginLeft: "25%",
   padding: "20px",
 }
